@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Suite" duration-ms="10356" started-at="2021-01-04T12:13:39Z" finished-at="2021-01-04T12:13:50Z">
+    <groups>
+    </groups>
+    <test name="Regression Test" duration-ms="10356" started-at="2021-01-04T12:13:39Z" finished-at="2021-01-04T12:13:50Z">
+      <class name="com.slnm.com.practice.TestClass">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.slnm.com.practice.TestClass@27ce24aa]" name="setup" is-config="true" duration-ms="7212" started-at="2021-01-04T12:13:39Z" finished-at="2021-01-04T12:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:com.slnm.com.practice.TestClass@27ce24aa]" name="browserLaunch" duration-ms="2331" started-at="2021-01-04T12:13:47Z" finished-at="2021-01-04T12:13:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="Quit()[pri:0, instance:com.slnm.com.practice.TestClass@27ce24aa]" name="Quit" is-config="true" duration-ms="789" started-at="2021-01-04T12:13:49Z" finished-at="2021-01-04T12:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+      </class> <!-- com.slnm.com.practice.TestClass -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Test Suite -->
+</testng-results>
